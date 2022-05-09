@@ -5,5 +5,5 @@
   </a><a href="https://ko-fi.com/bixbi">
     <img alt="Donate" src="https://img.shields.io/badge/kofi-2BB3EE?logo=kofi&logoColor=white&style=for-the-badge" /></a>
   </p>
-        <a href="https://github.com/Bixbi-FiveM"><img src="https://avatars.githubusercontent.com/u/105221477?s=200&v=4"></a>
+        <a href="https://github.com/Bixbi-FiveM"><img alt="Organisation" src="https://avatars.githubusercontent.com/u/105221477?s=200&v=4" /></a>
 </div>
